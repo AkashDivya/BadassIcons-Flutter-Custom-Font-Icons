@@ -49,6 +49,12 @@ Check the apk files included in this Repo. Install them on your device to test i
 
 I'm a veteran Designer/Animator with **10+ years** of experience. I always hated the excuses Developers gave me when they fail to implement my Design. One day, when I found about Flutter I said no more & started learning it.
 
+# Other Repo you may Like
+
+[![Explore Flutter Firebase](https://raw.githubusercontent.com/AkashDivya/Explore-Flutter-FireStore/master/images/Banner.jpg)](https://github.com/AkashDivya/Explore-Flutter-FireStore)
+
+[Visit this Repo](https://github.com/AkashDivya/Explore-Flutter-FireStore)
+
 # My Links
 
 **[YouTube](https://www.youtube.com/channel/UCo7mhMbZXaNgpyT7gM6mWDQ)**
