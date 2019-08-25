@@ -21,6 +21,8 @@ This App contains the implementation of the followings:
 I kept the code as original as possible with prober Commented Guides for anyone to understand and implement. Still you need to follow these steps.
   - First get Flutter and all necessary SDK/Plugins installed. Full guide here [Flutter: Get Started](https://flutter.dev/docs/get-started/install)
   - Now create a new Flutter App, named as **'badassicons'** with AndroidX Compatibility.
+  (You can also work without AndroidX for this simple app, but for adding other advanced features in your app, its recommended to use AndroidX).
+  
     ```
     flutter create --androidx badassicons
     ```
